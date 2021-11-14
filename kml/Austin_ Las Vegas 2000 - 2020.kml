@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Austin/ Las Vegas 2000 - 2020</name>
+	<gx:CascadingStyle kml:id="__managed_style_2DEF38186E1E2BE0AC02">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>6</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_02B2F849181E2BE0AC02">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_1953B6AD4E1E2BE0AC02</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_2DEF38186E1E2BE0AC02</styleUrl>
+		</Pair>
+	</StyleMap>
+	<gx:CascadingStyle kml:id="__managed_style_210B992B111E2BE08FDE">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.23.0/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>6</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_2501E510171E2BDFC0B7">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.23.0/slide_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>6</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<bgColor>ff4f4737</bgColor>
+				<displayMode>fullscreen</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_1953B6AD4E1E2BE0AC02">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_1631B57E691E2BE08FDE">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.23.0/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_0839E8D0D81E2BE08FDE">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_1631B57E691E2BE08FDE</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_210B992B111E2BE08FDE</styleUrl>
+		</Pair>
+	</StyleMap>
+	<gx:CascadingStyle kml:id="__managed_style_1408C8D28F1E2BDFC0B7">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.23.0/slide_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<bgColor>ff4f4737</bgColor>
+				<displayMode>fullscreen</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_0A599054E41E2BDFC0B7">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_1408C8D28F1E2BDFC0B7</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_2501E510171E2BDFC0B7</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark id="0625105E3F1E2BDFC0B2">
+		<name>Introduction</name>
+		<description><![CDATA[<div>Placeholder</div>]]></description>
+		<styleUrl>#__managed_style_0A599054E41E2BDFC0B7</styleUrl>
+	</Placemark>
+	<Folder id="07B01A47AB1E2BE065AC">
+		<name>Austin</name>
+		<open>1</open>
+		<description><![CDATA[<div>Placeholder</div>]]></description>
+		<styleUrl>#__managed_style_0839E8D0D81E2BE08FDE</styleUrl>
+		<Folder id="05E12848FD1E2BE0AC01">
+			<name>Austin 2000</name>
+			<open>1</open>
+			<styleUrl>#__managed_style_02B2F849181E2BE0AC02</styleUrl>
+			<GroundOverlay id="0C8B320F441E2BE20447">
+				<name>Austin 2000</name>
+				<visibility>0</visibility>
+				<LookAt>
+					<longitude>-97.68522288269037</longitude>
+					<latitude>30.32532574927485</latitude>
+					<altitude>164.6353278874979</altitude>
+					<heading>0</heading>
+					<tilt>0</tilt>
+					<gx:fovy>35</gx:fovy>
+					<range>194610.2955664561</range>
+					<altitudeMode>absolute</altitudeMode>
+				</LookAt>
+				<styleUrl>#__managed_style_02B2F849181E2BE0AC02</styleUrl>
+				<Icon>
+					<href>data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==</href>
+				</Icon>
+				<LatLonBox>
+					<north>85</north>
+					<south>-85</south>
+					<east>180</east>
+					<west>-180</west>
+				</LatLonBox>
+				<gx:MapTilePyramid>
+					<Link>
+						<href>https://storage.googleapis.com/geteachkml4/earthEngine/Austin/2000/$[level]/$[x]/$[y]</href>
+					</Link>
+					<gx:minLevel>0</gx:minLevel>
+					<gx:maxLevel>22</gx:maxLevel>
+				</gx:MapTilePyramid>
+			</GroundOverlay>
+		</Folder>
+		<Folder id="0F51C336D21E2BE0D104">
+			<name>Austin 2020</name>
+			<open>1</open>
+			<styleUrl>#__managed_style_02B2F849181E2BE0AC02</styleUrl>
+			<GroundOverlay id="08AEA574001E2BE3AF3E">
+				<name>Austin 2020</name>
+				<visibility>0</visibility>
+				<LookAt>
+					<longitude>-97.68500845302167</longitude>
+					<latitude>30.32525919405915</latitude>
+					<altitude>164.616041570165</altitude>
+					<heading>0</heading>
+					<tilt>0</tilt>
+					<gx:fovy>34.99999999999095</gx:fovy>
+					<range>199134.2201940715</range>
+					<altitudeMode>absolute</altitudeMode>
+				</LookAt>
+				<styleUrl>#__managed_style_02B2F849181E2BE0AC02</styleUrl>
+				<Icon>
+					<href>data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==</href>
+				</Icon>
+				<LatLonBox>
+					<north>85</north>
+					<south>-85</south>
+					<east>180</east>
+					<west>-180</west>
+				</LatLonBox>
+				<gx:MapTilePyramid>
+					<Link>
+						<href>https://storage.googleapis.com/geteachkml4/earthEngine/Austin/2020/$[level]/$[x]/$[y]</href>
+					</Link>
+					<gx:minLevel>0</gx:minLevel>
+					<gx:maxLevel>22</gx:maxLevel>
+				</gx:MapTilePyramid>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder id="02378D8CAC1E2BE0F87C">
+		<name>Las Vegas</name>
+		<open>1</open>
+		<description><![CDATA[<div>Placeholder</div>]]></description>
+		<styleUrl>#__managed_style_0839E8D0D81E2BE08FDE</styleUrl>
+		<Folder id="0064E29F3C1E2BE12AD9">
+			<name>Las Vegas 2000</name>
+			<open>1</open>
+			<styleUrl>#__managed_style_02B2F849181E2BE0AC02</styleUrl>
+			<GroundOverlay id="0F42A683951E2BE4840B">
+				<name>Las Vegas 2000</name>
+				<styleUrl>#__managed_style_02B2F849181E2BE0AC02</styleUrl>
+				<Icon>
+					<href>data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==</href>
+				</Icon>
+				<LatLonBox>
+					<north>85</north>
+					<south>-85</south>
+					<east>180</east>
+					<west>-180</west>
+				</LatLonBox>
+				<gx:MapTilePyramid>
+					<Link>
+						<href>https://storage.googleapis.com/geteachkml4/earthEngine/LV/2000/$[level]/$[x]/$[y]</href>
+					</Link>
+					<gx:minLevel>0</gx:minLevel>
+					<gx:maxLevel>22</gx:maxLevel>
+				</gx:MapTilePyramid>
+			</GroundOverlay>
+		</Folder>
+		<Folder id="095D93FF571E2BE1535E">
+			<name>Las Vegas 2020</name>
+			<open>1</open>
+			<styleUrl>#__managed_style_02B2F849181E2BE0AC02</styleUrl>
+			<GroundOverlay id="0A9D9BA9EC1E2BE51EB2">
+				<name>Las Vegas 2020</name>
+				<styleUrl>#__managed_style_02B2F849181E2BE0AC02</styleUrl>
+				<Icon>
+					<href>data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==</href>
+				</Icon>
+				<LatLonBox>
+					<north>85</north>
+					<south>-85</south>
+					<east>180</east>
+					<west>-180</west>
+				</LatLonBox>
+				<gx:MapTilePyramid>
+					<Link>
+						<href>https://storage.googleapis.com/geteachkml4/earthEngine/LV/2020/$[level]/$[x]/$[y]</href>
+					</Link>
+					<gx:minLevel>0</gx:minLevel>
+					<gx:maxLevel>22</gx:maxLevel>
+				</gx:MapTilePyramid>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+</Document>
+</kml>

@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>Las Vegas</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:100,200,300,400,500|Roboto+Slab|Material+Icons" type="text/css" />
+        <link rel="stylesheet" href="https://code.getmdl.io/1.3.0/material.blue_grey-blue.min.css" />
+        <link rel="stylesheet" href="https://geteach.com/gti/drp/scripts/egewexploreRadio1017.css" type="text/css" />
+    </head>
+    <body>
+        <div id="container">
+            <main class="panelMain">
+                <div class="mediaContain">
+                    <div class="slideshow-container">
+<!--First media in Carousel--Best Image Aspect Ratio 3:2 Replace Image Source (src) bellow-->
+                        <div class="mySlides fade" value="0F42A683951E2BE4840BShow">
+                            <img class="image"src="https://storage.googleapis.com/geteachkml4/earthEngine/LV/lv2000.jpg">
+                            <div class="captionDiv">
+                                <div class="caption">Las Vegas 2000</div>
+                            </div>
+                        </div>
+                        <div class="mySlides fade" value="0A9D9BA9EC1E2BE51EB2Show">
+                            <img class="image"src="https://storage.googleapis.com/geteachkml4/earthEngine/LV/lv2020.jpg">
+                            <div class="captionDiv">
+                                <div class="caption">Las Vegas 2020</div>
+                            </div>
+                        </div>
+                        <a class="prev minusSlidesClass">&#10094;</a>
+                        <a class="next plusSlidesClass">&#10095;</a>
+                    </div>
+                </div>
+                <div class="content" id="content">
+<!--Add Title-->
+                    <div class="title">
+                        Las Vegas, Nevada
+                    </div>
+ <!--Add description-->
+                    <div class="description">
+                        <p class="text">
+                            Las Vegas' Metropolitan Statistical Area had a population around 1,563,282 in 2000. The Census estimates Las Vegas had a population of 2,182,004 in 2020.
+                        </p>
+                        <p class="text">
+                            Source: US Census
+                        </p>
+                    </div>
+                 </div>
+<!--Best image height for footer is 24px with a max-width of 145px-->
+<!--If you don't want the footer is it best to delete the html within the logoLeft/LogoRight Div-->
+                <div class="footer">
+                    <div class="logoLeft">
+                    </div>
+                    <div class="layerLinks" id="layerLinks" style="display:none">
+                        <a href='#0C8B320F441E2BE20447;show' class='showlink' id='0C8B320F441E2BE20447Show' name='Austin2000Show'></a>
+                        <a href='#0C8B320F441E2BE20447;hide' class='hidelink' id='0C8B320F441E2BE20447Hide' name='Austin2000Hide'></a>
+
+                        <a href='#08AEA574001E2BE3AF3E;show' class='showlink' id='08AEA574001E2BE3AF3EShow' name='Austin2020Show'></a>
+                        <a href='#08AEA574001E2BE3AF3E;hide' class='hidelink' id='08AEA574001E2BE3AF3EHide' name='Austin2020Hide'></a>
+
+                        <a href='#0F42A683951E2BE4840B;show' class='showlink' id='0F42A683951E2BE4840BShow' name='LV2000Show'></a>
+                        <a href='#0F42A683951E2BE4840B;hide' class='hidelink' id='0F42A683951E2BE4840BHide' name='LV2000Hide'></a>
+
+                        <a href='#0A9D9BA9EC1E2BE51EB2;show' class='showlink' id='0A9D9BA9EC1E2BE51EB2Show' name='LV2020Show'></a>
+                        <a href='#0A9D9BA9EC1E2BE51EB2;hide' class='hidelink' id='0A9D9BA9EC1E2BE51EB2Hide' name='LV2020Hide'></a>
+
+                        <a href='#07B01A47AB1E2BE065AC;show' class='setFolders' id='07B01A47AB1E2BE065ACShow' name='AustinFolderShow'></a>
+                        <a href='#05E12848FD1E2BE0AC01;show' class='setFolders' id='05E12848FD1E2BE0AC01Show' name='Austin2000FolderShow'></a>
+                        <a href='#0F51C336D21E2BE0D104;show' class='setFolders' id='0F51C336D21E2BE0D104Show' name='Austin2020FolderShow'></a>
+
+                        <a href='#02378D8CAC1E2BE0F87C;show' class='setFolders' id='02378D8CAC1E2BE0F87CShow' name='LVFolderShow'></a>
+                        <a href='#0064E29F3C1E2BE12AD9;show' class='setFolders' id='0064E29F3C1E2BE12AD9Show' name='LV2000FolderShow'></a>
+                        <a href='#095D93FF571E2BE1535E;show' class='setFolders' id='095D93FF571E2BE1535EShow' name='LV2020FolderShow'></a>
+
+                        <a href='#07B01A47AB1E2BE065AC;Flyto' class='Flyto' id='07B01A47AB1E2BE065ACFlyto' name='AustinFolderFlyto'></a>
+                        <a href='#02378D8CAC1E2BE0F87C;Flyto' class='Flyto' id='02378D8CAC1E2BE0F87CFlyto' name='LVFolderFlyto'></a>
+                    </div>
+                    <div class="logoRight" style="display:block">
+                        <a href="https://twitter.com/geteach" target="_blank">
+                            <img src="https://storage.googleapis.com/geteachkml4/logogeteachtemp.png" >
+                        </a>
+                    </div>
+                </div>
+            </main>
+        </div>
+        <script>
+            window.onload = function Flyto() {
+                var folderElems = document.getElementsByClassName("setFolders");
+                var hideElems = document.getElementsByClassName("hidelink");
+                for(var i=0; i<folderElems.length;i++) { folderElems[i].click(); }
+                for(var i=0; i<hideElems.length;i++) { hideElems[i].click(); }
+                document.getElementById("0F42A683951E2BE4840BShow").click();
+                document.getElementById("02378D8CAC1E2BE0F87CFlyto").click();
+            };
+        </script>
+    </body>
+    <script src="https://geteach.com/gti/drp/scripts/oceanproject.js"></script>
+    <script defer src="https://code.getmdl.io/1.3.0/material.min.js"></script>
+</html>
